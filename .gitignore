@@ -1,0 +1,10 @@
+.DS_Store
+.nodemonignore
+.sass-cache/
+node_modules/
+public/lib
+test/coverage/
+/.bower-cache
+/.bower-registry
+/.bower-tmp
+/.settings
