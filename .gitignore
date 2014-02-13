@@ -8,3 +8,5 @@ test/coverage/
 /.bower-registry
 /.bower-tmp
 /.settings
+
+db/
